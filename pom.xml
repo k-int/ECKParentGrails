@@ -142,7 +142,7 @@
 			<dependency>
 				<groupId>com.k-int.EUInside</groupId>
 				<artifactId>ECKClient</artifactId>
-				<version>0.3-SNAPSHOT</version>
+				<version>0.4-SNAPSHOT</version>
 				<scope>compile</scope>
 				<exclusions>
 					<!-- xerces and xml-apis are excluded as it stops maven talking to grails, due to an older version of the xml api definition -->
